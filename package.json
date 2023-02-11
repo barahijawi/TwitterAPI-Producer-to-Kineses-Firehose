@@ -1,0 +1,15 @@
+{
+  "name": "twitter-streaming-kinesis-node",
+  "version": "0.0.1",
+  "author": "AssafMentzer",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1309.0",
+    "log4js": "~0.6.22",
+    "twit": "*",
+    "twitter-api-v2": "^1.14.1"
+  }
+}

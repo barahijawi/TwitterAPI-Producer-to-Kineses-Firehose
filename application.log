@@ -1,0 +1,422 @@
+2023-02-05 14:33:12.952 (PID: 35695) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 14:33:13.723 (PID: 35695) INFO producer - barabatta stream does not exist. Created a new stream with that name.
+2023-02-05 14:33:13.880 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:16.050 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:18.232 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:20.392 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:22.554 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:24.713 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:26.880 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:29.068 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:31.249 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:33.421 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:35.584 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:37.751 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:39.918 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:42.089 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:44.257 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:47.515 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:50.001 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:52.162 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:54.324 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:56.494 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:33:58.674 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:00.845 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:03.006 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:05.176 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:07.343 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:09.507 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:11.678 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:13.855 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:16.016 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:18.179 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:20.353 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:22.527 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:24.700 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:26.868 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:29.041 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:31.210 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:33.408 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:35.584 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:37.771 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:39.953 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:42.132 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:44.323 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:46.504 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:48.697 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:50.871 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:53.052 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:55.234 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:34:58.458 (PID: 35695) INFO producer - Current status of the stream is CREATING.
+2023-02-05 14:35:00.647 (PID: 35695) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 14:41:16.108 (PID: 35988) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 14:41:16.406 (PID: 35988) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 14:41:16.578 (PID: 35988) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 14:58:08.963 (PID: 36549) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 14:58:09.236 (PID: 36549) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 14:58:09.408 (PID: 36549) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 14:58:14.757 (PID: 36553) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 14:58:14.985 (PID: 36553) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 14:58:15.159 (PID: 36553) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 14:59:34.391 (PID: 36598) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 14:59:34.637 (PID: 36598) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 14:59:34.804 (PID: 36598) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 14:59:56.032 (PID: 36607) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 14:59:56.260 (PID: 36607) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 14:59:56.585 (PID: 36607) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 15:02:37.444 (PID: 36701) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 15:02:37.697 (PID: 36701) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 15:02:37.866 (PID: 36701) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 15:03:30.439 (PID: 36731) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 15:03:30.698 (PID: 36731) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 15:03:30.867 (PID: 36731) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 15:07:43.489 (PID: 36867) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 15:07:43.736 (PID: 36867) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 15:07:43.902 (PID: 36867) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 15:09:58.182 (PID: 36939) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 15:09:58.791 (PID: 36939) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 15:09:58.995 (PID: 36939) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 15:13:41.243 (PID: 37070) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 15:13:41.483 (PID: 37070) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 15:13:41.657 (PID: 37070) INFO producer - Current status of the stream is ACTIVE.
+2023-02-05 15:14:13.608 (PID: 37084) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-05 15:14:13.856 (PID: 37084) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-05 15:14:14.017 (PID: 37084) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 08:54:13.407 (PID: 73643) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 08:54:13.699 (PID: 73643) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 08:54:13.910 (PID: 73643) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 09:57:11.944 (PID: 75473) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 09:57:12.267 (PID: 75473) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 09:57:12.610 (PID: 75473) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 11:41:55.509 (PID: 82949) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 11:41:55.830 (PID: 82949) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 11:41:56.012 (PID: 82949) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 13:37:56.962 (PID: 82949) ERROR producer - { inspect: [Function: inspect] }
+2023-02-06 13:37:57.059 (PID: 82949) ERROR producer - { inspect: [Function: inspect] }
+2023-02-06 13:37:57.157 (PID: 82949) ERROR producer - { inspect: [Function: inspect] }
+2023-02-06 14:38:49.946 (PID: 91751) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 14:38:50.242 (PID: 91751) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 14:38:50.418 (PID: 91751) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 14:40:15.359 (PID: 91871) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 14:40:15.669 (PID: 91871) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 14:40:15.906 (PID: 91871) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 14:50:30.975 (PID: 92721) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 14:50:31.285 (PID: 92721) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 14:50:31.493 (PID: 92721) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 14:54:48.580 (PID: 93076) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 14:54:48.866 (PID: 93076) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 14:54:49.098 (PID: 93076) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 14:58:14.694 (PID: 93371) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 14:58:14.981 (PID: 93371) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 14:58:15.207 (PID: 93371) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 18:09:39.753 (PID: 9247) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 18:09:40.029 (PID: 9247) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 18:09:40.213 (PID: 9247) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 18:12:07.840 (PID: 9449) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 18:12:08.083 (PID: 9449) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 18:12:08.258 (PID: 9449) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 18:12:30.884 (PID: 9480) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 18:12:31.127 (PID: 9480) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 18:12:31.304 (PID: 9480) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 18:13:22.070 (PID: 9555) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 18:13:22.355 (PID: 9555) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 18:13:22.538 (PID: 9555) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 19:27:38.665 (PID: 10512) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 19:27:38.974 (PID: 10512) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 19:27:39.152 (PID: 10512) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 19:31:35.858 (PID: 10836) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 19:31:36.118 (PID: 10836) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 19:31:36.292 (PID: 10836) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 20:04:50.522 (PID: 13585) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 20:04:50.780 (PID: 13585) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 20:04:50.968 (PID: 13585) INFO producer - Current status of the stream is ACTIVE.
+2023-02-06 20:05:22.492 (PID: 13631) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-06 20:05:22.745 (PID: 13631) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-06 20:05:22.941 (PID: 13631) INFO producer - Current status of the stream is ACTIVE.
+2023-02-09 17:37:27.370 (PID: 66519) INFO producer - Configured wait between consecutive PutRecords call in milliseconds: 50
+2023-02-09 17:37:27.656 (PID: 66519) INFO producer - barabatta stream is already created! Re-using it.
+2023-02-09 17:37:27.831 (PID: 66519) INFO producer - Current status of the stream is ACTIVE.
+2023-02-11 00:34:11.926 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:14.945 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:26.990 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:27.901 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:32.536 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:33.934 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:36.153 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:37.149 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:45.930 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:49.979 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:34:55.924 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:01.075 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:01.529 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:01.918 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:02.049 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:17.962 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:20.628 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:25.460 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:27.537 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:31.912 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:40.928 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:45.907 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:53.945 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:57.557 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:35:58.173 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:00.292 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:02.946 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:03.069 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:04.024 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:06.018 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:07.937 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:08.943 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:11.041 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:13.026 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:14.140 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:14.972 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:16.309 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:17.980 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:25.280 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:27.391 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:28.344 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:40.972 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:41.995 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:50.615 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:50.930 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:51.931 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:52.040 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:53.926 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:53.997 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:55.996 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:36:56.038 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:02.982 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:04.119 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:05.301 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:10.098 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:14.027 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:16.994 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:22.971 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:23.492 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:26.932 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:28.944 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:29.999 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:30.945 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:32.089 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:36.024 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:39.989 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:40.995 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:42.954 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:42.956 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:45.992 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:52.907 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:37:54.284 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:00.016 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:01.007 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:03.083 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:04.365 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:11.941 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:13.531 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:17.018 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:18.960 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:19.071 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:20.375 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:20.534 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:29.947 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:33.913 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:35.346 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:35.744 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:40.988 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:43.000 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:46.104 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:46.251 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:46.377 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:46.975 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:49.098 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:55.471 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:38:59.908 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:01.173 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:01.938 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:06.020 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:08.156 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:08.966 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:15.899 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:23.708 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:24.170 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:29.973 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:32.890 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:37.920 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:38.924 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:43.066 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:52.034 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:53.046 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:39:58.939 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:01.079 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:15.985 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:25.934 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:28.005 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:29.989 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:30.397 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:33.184 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:33.932 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:34.066 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:39.376 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:40:43.962 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:00.971 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:05.989 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:11.045 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:16.049 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:24.650 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:28.176 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:29.032 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:29.563 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:33.920 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:37.058 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:40.485 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:40.900 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:41.938 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:48.945 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:52.064 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:55.096 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:41:59.204 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:01.009 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:03.124 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:05.964 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:08.232 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:15.038 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:17.063 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:20.730 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:26.379 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:28.284 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:32.026 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:45.589 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:53.015 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:56.124 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:57.364 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:42:59.991 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:00.908 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:01.535 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:03.495 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:04.317 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:05.105 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:09.246 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:15.628 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:19.072 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:19.461 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:26.960 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:32.944 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:39.226 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:41.910 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:44.710 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:55.277 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:43:58.993 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:00.329 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:02.122 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:06.908 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:07.991 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:11.183 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:11.474 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:21.014 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:23.897 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:24.642 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:25.053 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:30.897 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:30.908 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:33.591 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:34.150 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:53.355 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:44:53.986 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:00.983 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:01.990 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:07.025 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:07.987 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:08.312 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:08.983 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:26.004 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:28.013 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:33.915 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:35.212 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:40.373 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:41.972 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:42.942 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:43.075 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:43.917 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:46.027 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:51.074 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:45:54.059 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:02.509 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:02.904 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:03.978 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:04.906 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:05.012 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:05.985 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:16.456 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:22.570 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:22.929 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:23.068 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:23.933 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:25.930 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:31.953 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:34.539 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:39.033 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:39.984 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:42.913 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:54.244 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:54.919 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:54.965 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:46:58.377 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:15.938 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:16.936 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:18.012 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:19.007 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:20.061 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:20.921 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:21.906 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:21.908 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:24.985 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:25.658 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:29.572 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:36.523 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:40.966 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:46.534 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:48.047 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:51.878 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:55.628 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:56.926 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:47:58.932 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:05.906 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:11.935 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:16.271 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:17.242 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:18.240 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:20.509 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:21.993 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:24.112 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:24.895 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:27.983 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:28.699 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:31.227 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:34.941 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:36.157 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:40.063 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:40.420 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:41.566 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:44.165 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:46.123 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:51.908 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:51.920 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:54.005 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:56.984 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:58.526 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:48:59.025 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:12.144 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:13.918 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:14.128 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:16.914 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:21.045 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:28.996 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:29.961 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:30.949 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:30.982 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:31.286 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:32.291 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:34.473 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:37.382 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
+2023-02-11 00:49:38.167 (PID: 66519) ERROR producer - { inspect: [Function: inspect] }
